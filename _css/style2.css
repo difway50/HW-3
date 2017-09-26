@@ -207,3 +207,12 @@ div button a{
     background:rgba(0,0,0,1);
     text-decoration:none;
 }
+
+.btn{
+  width: 100px;
+  height: 40px;
+  background-color: black;
+  color: #FFB81C;
+  border-radius: 50px;
+  font-size: 1.0em;
+}
